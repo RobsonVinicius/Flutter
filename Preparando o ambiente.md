@@ -6,8 +6,6 @@
 
 O Flutter está disponível para [download em sua página oficial](https://flutter.dev/docs/get-started/install), escolha o sistema operacional que está utilizando e siga as instruções de instalação.
 
-> Durante o curso utilizamos a versão 1.7. Se no momento que estiver fazendo o curso tiver uma versão mais recente, fique à vontade em utilizá-la.
-
 Após finalizar a configuração que adiciona o Flutter na variável de ambiente `PATH`, que permite usar o Flutter em qualquer diretório via prompt ou terminal, execute o comando `flutter doctor` no terminal ou prompt, deve apresentar um resultado similar a este:
 
 ```
