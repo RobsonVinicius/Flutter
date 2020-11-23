@@ -1,7 +1,7 @@
 <div align="center">
  
  ![Flutter Logo](Docs/images/flutter-logo.jpg)
- ### Repositório criado para documentação de estudos em Flutter
+ ### Repositório criado para documentação <br> de estudos em Flutter
   
 </div>
 
