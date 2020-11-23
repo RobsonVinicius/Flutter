@@ -36,6 +36,9 @@
 ### 📚 Livros
  
 + [Flutter na prática: Melhore seu desenvolvimento mobile com o SDK open - Frank Zammetti](https://www.amazon.com.br/Flutter-pr%C3%A1tica-Melhore-desenvolvimento-recente-ebook/dp/B083VXLSQG)
++ [Flutter for Beginners: An introductory guide to building cross-platform mobile applications with Flutter and Dart 2 (English Edition)](https://www.amazon.com.br/Flutter-Beginners-introductory-cross-platform-applications-ebook/dp/B07X1YRFHX/ref=sr_1_12?dchild=1&keywords=flutter&qid=1606164585&s=books&sr=1-12)
+
+
 
 <br> 
 
