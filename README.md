@@ -7,7 +7,7 @@
 
 <br>
 
-### 📚 Documentação
+### 📖 Documentação
  
 + [Flutter documentation](https://flutter.dev/docs)
 + [Hot reload](https://flutter.dev/docs/development/tools/hot-reload)
@@ -40,7 +40,7 @@
 <br> 
 
 
-### Vídeos
+### 🎞️ Vídeos
 
 + [O que é Flutter? - Hipster Ponto Tube](https://www.youtube.com/watch?v=So5C-XSfGW0&ab_channel=AluraCursosOnline)
 + [FLUTTER EM 6 MINUTOS: Tudo Que Você Precisa Saber para Começar! - DevMedia](https://www.youtube.com/watch?v=jbAh5R8CH_o&ab_channel=DevMedia)
