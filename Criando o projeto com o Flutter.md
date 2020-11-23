@@ -1,6 +1,6 @@
 <div align="center">
 
-## Preparando o ambiente
+## Criando o projeto com o Flutter
 
 </div>
 
