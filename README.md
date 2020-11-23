@@ -28,8 +28,8 @@
   
 ### 🎙️ Podcasts
 
-+ [Lambda3 Podcast 188 – Flutter](https://www.lambda3.com.br/2020/03/lambda3-podcast-188-flutter/)
-
++ [Flutter - Lambda3 Podcast #188](https://www.lambda3.com.br/2020/03/lambda3-podcast-188-flutter/)
++ [Flutter – Hipsters #183](https://hipsters.tech/flutter-hipsters-183/)
 
 <br>
 
