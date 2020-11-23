@@ -10,7 +10,7 @@ Em seguida, abra o IntelliJ e na tela de launcher escolha a opção **Open** e s
 
 Após o IntelliJ finalizar todas as tasks, abra o emulador pelo IntelliJ selecionando o emulador disponível por meio do campo combobox/select ao lado do combobox que indica **main.dart**. Ao apresentar o emulador, execute o arquivo **main.dart** e verifica se apresenta o App da mesma maneira que foi apresentado via prompt/terminal.
 
-Modifique o código para que apresente apenas o texto `'Bem vindo ao Bytebank'` com o Widget `Text`. Nesta modificação, apague todo o código que foi gerado automaticamente, deixando apenas o seguinte trecho:
+Modifique o código para que apresente apenas o texto `'Bem vindo ao Projeto'` com o Widget `Text`. Nesta modificação, apague todo o código que foi gerado automaticamente, deixando apenas o seguinte trecho:
 
 ```
 void main() => runApp();
